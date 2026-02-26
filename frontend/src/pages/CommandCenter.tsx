@@ -40,7 +40,7 @@ export default function CommandCenter({ darkMode, toggleTheme }: Props) {
     },
     {
       name: "Water & Energy AI",
-      route: "/resource",
+      route: "/energy",
       status: "Efficient",
       color: "bg-purple-600",
     },
